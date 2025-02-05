@@ -1,3 +1,5 @@
+## Note: This is a modified minimal (no examples) version of [rlImGui](https://github.com/raylib-extras/rlImGui.git) made to be used with CMake instead of premake.
+
 # rlImGui
 <img align="left" src="https://github.com/raysan5/raylib/raw/master/logo/raylib_logo_animation.gif" width="64">
 A Raylib integration with DearImGui
